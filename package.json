@@ -1,14 +1,14 @@
 {
   "name": "website",
   "version": "1.0.0",
-  "description": "The public source code of Strayfade.com",
+  "description": "Lakshs Website",
   "main": "App.js",
   "scripts": {
     "start": "node App 3100",
     "build": "node Build",
     "develop": "node Build --skipobfuscation && node App 3000"
   },
-  "author": "Strayfade",
+  "author": "Laksh Prasad",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
