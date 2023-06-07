@@ -157,7 +157,7 @@ const GenerateBodyV2 = async function (
                     <div class="SlideInner" style="color: white">
                         <p class="Author">Strayfade</p>
                         <h1 class="Slide1 Slide1Visible">` + Localize(Locale, "pageTitle1") + `</h1>
-                        <p class="Slide1 Slide1Visible">Hello! I am Noah, a <rd data-tooltipsmall="Automatically Updates">` + CalculateAge() + `-year-old</rd> software developer (primarily <a href="https://github.com/Strayfade/Website"><rd>web development</rd></a> and C++) from the United States</p>
+                        <p class="Slide1 Slide1Visible">Hello! I'm Laksh, a <rd data-tooltipsmall="Automatically Updates">` + CalculateAge() + `-year-old</rd> young future entrepreneur (primarly trying to learn c++ and c# + reverse enginering) from New Zealand</p>
                         <br class="Slide1 Slide1Visible">
                         `
 
