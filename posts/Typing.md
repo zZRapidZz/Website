@@ -3,7 +3,7 @@
     "description": "the guy who made this website",
     "tags": ["NodeJS"],
     "author": "Laksh",
-    "date": "4/19/2023",
+    "date": "8/6/2023",
     "showTitle": true,
     "indexed": true,
     "pinned": true
