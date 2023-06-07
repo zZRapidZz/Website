@@ -18,7 +18,7 @@ const AvailablePages = {
 };
 function CalculateAge() {
     var AgeDif = new Date(Date.now() - new Date(1131950100000));
-    return Math.abs(AgeDif.getUTCFullYear() - 2000);
+    return Math.abs(AgeDif.getUTCFullYear() - 1999);
 }
 let Cache = [];
 const GeneratePageCached = async function (
@@ -227,7 +227,7 @@ const GenerateBodyV2 = async function (
                 </div>
                 <div class="Slide SlideContentHidden" id="SlideContent2">
                     <div class="SlideInner" style="color: white">
-                        <p class="Author"><span id="Counter" style="font-weight: 800">0+</span> years <span>experience</span></p></span>
+                        <p class="Author"><span id="" style="font-weight: 800">5+</span> months <span>experience</span></p></span>
                         <h1 class="Slide2">` + Localize(Locale, "pageTitle2") + `</h1>
                         <br class="Slide2">
                         <br class="Slide2">
