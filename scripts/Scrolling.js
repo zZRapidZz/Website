@@ -72,7 +72,7 @@ function UpdateSlides(SlideNumb) {
       }
       function CalculateAge() {
         var AgeDif = new Date(Date.now() - new Date(1131950100000));
-        return Math.abs(AgeDif.getUTCFullYear() - 1970);
+        return Math.abs(AgeDif.getUTCFullYear() - 2020);
       }
       function SetYearsCoded(i) {
         if (i < 0) return;
