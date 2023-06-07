@@ -1,13 +1,11 @@
 {
     "locale_title": "en",
-    "site_name": "strayfade.com",
-    "site_title_default": "Strayfade",
-    "site_title_extension": " - Strayfade",
-    "copyright_main": "Copyright © 2022 Strayfade. All Rights Reserved.",
+    "site_name": "",
+    "site_title_default": "Laksh Prasad",
+    "site_title_extension": " - Laksh Prasad",
+    "copyright_main": "Copyright © 2023 Laksh Prasad. All Rights Reserved.",
     "share_section_header": "Share This Page",
     "view_on_github": "View on GitHub",
     "view_original": "View Raw",
-    "pageTitle1": "Posts",
-    "pageTitle2": "Skills",
     "pageTitle3": "Contact Me"
 }
