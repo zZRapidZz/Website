@@ -2,7 +2,7 @@ function P(Input) {
     return Input.toString().length < 2 ? "0" + Input : Input
 }
 function Q(Input) {
-    for (var x = 0; x < 4; x++) {
+    for (var x = 0; x < 1; x++) {
         if (Input.toString().length < 4) {
             Input = "0" + Input
         }
