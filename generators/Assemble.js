@@ -18,7 +18,7 @@ const AvailablePages = {
 };
 function CalculateAge() {
     var AgeDif = new Date(Date.now() - new Date(1131950100000));
-    return Math.abs(AgeDif.getUTCFullYear() - 1999);
+    return Math.abs(AgeDif.getUTCFullYear() - 2001);
 }
 let Cache = [];
 const GeneratePageCached = async function (
